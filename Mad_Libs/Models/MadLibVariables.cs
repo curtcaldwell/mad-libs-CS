@@ -43,7 +43,7 @@ namespace MadLibs.Models
     }
     public void SetExclamation(string newExclamation)
     {
-      _exclmation = newExclamation;
+      _exclamation = newExclamation;
     }
 
     public string GetBodyPart()
